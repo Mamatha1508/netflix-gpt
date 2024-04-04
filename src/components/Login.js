@@ -77,7 +77,7 @@ const Login = () => {
         <h1 className="text-slate-50 font-bold text-3xl mx-12 my-4 ">{isSignInForm ? "Sign In" : "Sign Up"}</h1>
         {!isSignInForm && <input ref={fullName} type="text" placeholder="Full Name" className="p-2 mx-12 my-4 w-80 rounded-md" />}
         <input type="text" placeholder="Email Address" className="p-2 mx-12 my-4 w-80 rounded-md" ref={email}/>
-        <input type="text" placeholder="Password" className="p-2 mx-12 my-4 w-80 rounded-md" ref={password} />
+        <input type="password" placeholder="Password" className="p-2 mx-12 my-4 w-80 rounded-md" ref={password} />
         <p className="text-red-700 text-lg mx-12 ">{errMessage}</p>
         <div>
          

@@ -12,7 +12,7 @@ const Header = () => {
   useEffect(() => {
    const unsubscribe= onAuthStateChanged(auth, (user) => {
       if (user) {
-        console.log("user in state", user);
+       // console.log("user in state", user);
         const { uid, email, displayName } = user;
         dispatch(addUser({ uid: uid, email: email, displayName: displayName }));
         navigate("/browse");
@@ -26,13 +26,13 @@ const Header = () => {
   }, []);
 
   const userEmail = useSelector((store) => {
-    console.log("store", store);
+    
     return store.user?.email;
   });
   const handleUserSignOut = () => {
     signOut(auth)
       .then(() => {
-        console.log("auth in signout", auth);
+        
       })
       .catch((error) => {});
   };
