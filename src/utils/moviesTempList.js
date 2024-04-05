@@ -1,3 +1,6 @@
+//https://i.ytimg.com/vi/uPeRKmVJtsU/hq720.jpg?sqp=-%E2%80%A6AFwAcABBg==&rs=AOn4CLBRlyjYZfMB0sg9pavoPUcBAbNBow
+
+
 export const MOVIES_LIST=[
     {
         "_id": 868759,
@@ -13,58 +16,37 @@ export const MOVIES_LIST=[
         "release_date": "2023-04-18",
         "title": "Ghosted",
         "contentType": "movie",
-        "movieLink" : "XZVpF-ULv1Q?si=sflx3p1xGnBiTCeN"
+        "movieId": ""
     },
-    {
-        "_id": 868750,
-        "backdrop_path": "https://image.tmdb.org/t/p/original/b9UCfDzwiWw7mIFsIQR9ZJUeh7q.jpg",
-        "genres": [
-            "Action & Adventure",
-            "Comedy",
-            "Romance"
-        ],
-        "original_title": "SpiderMan Lotus",
-        "overview": "Salt-of-the-earth Cole falls head over heels for enigmatic Sadie — but then makes the shocking discovery that she’s a secret agent. Before they can decide on a second date, Cole and Sadie are swept away on an international adventure to save the world.",
-        "poster_path": "https://m.media-amazon.com/images/M/MV5BN2I3NGUxNDAtNmZkOC00NWM3LTljYWEtZGY5NmMzMmZhYzNmXkEyXkFqcGdeQXVyMTE5ODQwNTM0._V1_.jpg",
-        "release_date": "2023-04-18",
-        "title": "SpiderMan Lotus",
-        "contentType": "movie",
-        "movieLink" : "mBrUx6M6R7U?si=xBFqz79trwb6y9CG"
-        
-    },
-    //https://i.ytimg.com/vi/mBrUx6M6R7U/hq720.jpg?sqp=-%E2%80%A6AFwAcABBg==&rs=AOn4CLDFvxmhOXoulv8e05DEXI7V9WoBbA
-    //https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRA5WrcsZHQcT6OpNB43cGEHdzMHpwHadHt0H8luwEGlYZ66dF98wcHBKN5jNEdFuMbUEE&usqp=CAU
     {
         "_id": 1102776,
         "backdrop_path": "https://image.tmdb.org/t/p/original/zh614Bixv2ePaHK8gzcUpUmcvYv.jpg",
         "genres": [
-            "Love",
-            "Romance",
-            "Comedy"
+            "Thriller",
+            "Action & Adventure",
+            "Crime"
         ],
-        "original_title": "MAD",
+        "original_title": "The Northlander",
         "overview": "A steely special ops agent finds his morality put to the test when he infiltrates a crime syndicate and unexpectedly bonds with the boss' young son.",
-        "poster_path": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRA5WrcsZHQcT6OpNB43cGEHdzMHpwHadHt0H8luwEGlYZ66dF98wcHBKN5jNEdFuMbUEE&usqp=CAU",
+        "poster_path": "https://i.ytimg.com/vi/vvd0Y0xsxQE/hq720.jpg?sqp=-…AFwAcABBg==&rs=AOn4CLAc4lf1f6Q6DxZXv2Ztc7iR1yqpwg",
         "release_date": "2023-04-28",
-        "title": "MAD",
-        "contentType": "movie",
-        "movieLink" : "mFxq5YYv52s?si=gUwdCPSZcc3rFTLB"
+        "title": "The Northlander",
+        "contentType": "movie"
     },
     {
         "_id": 934433,
         "backdrop_path": "https://image.tmdb.org/t/p/original/44immBwzhDVyjn87b3x3l9mlhAD.jpg",
         "genres": [
-            "Action",
+            "Horror",
             "Mystery",
             "Thriller"
         ],
-        "original_title": "Dhruva",
-        "overview": "An IPS officer discovers a strong network of organised crime. He then intends to take down the mastermind behind a huge racket and encounters numerous challenges on his way..",
-        "poster_path": "https://image.tmdb.org/t/p/w500/hh7D1fLjet1Ce1kcCkk5TVr3g9O.jpg",
+        "original_title": "Scream VI",
+        "overview": "Following the latest Ghostface killings, the four survivors leave Woodsboro behind and start a fresh chapter.",
+        "poster_path": "https://image.tmdb.org/t/p/original/wDWwtvkRRlgTiUr6TyLSMX8FCuZ.jpg",
         "release_date": "2023-03-08",
-        "title": "Dhruva",
-        "contentType": "movie",
-        "movieLink" : "A77rGW61mFI?si=tSb1RLHdBTuWBvNf"
+        "title": "Scream VI",
+        "contentType": "movie"
     },
     {
         "_id": 948713,
@@ -73,32 +55,31 @@ export const MOVIES_LIST=[
             "Action & Adventure",
             "Action & Adventure",
             "History",
-            "Drama"
-           
+            "Drama",
+            "War"
         ],
-        "original_title": "PK",
-        "overview": "A stranger in the city asks questions no one has asked before. Known only by his initials, the man's innocent questions and childlike curiosity take him on a journey of love, laughter and letting go",
-        "poster_path": "https://m.media-amazon.com/images/M/MV5BMTg5NzIzMzEyOF5BMl5BanBnXkFtZTgwMjgzMTg0MzE@._V1_FMjpg_UX1000_.jpg",
+        "original_title": "The Last Kingdom: Seven Kings Must Die",
+        "overview": "In the wake of King Edward's death, Uhtred of Bebbanburg and his comrades adventure across a fractured kingdom in the hopes of uniting England at last.",
+        "poster_path": "https://image.tmdb.org/t/p/original/7yyFEsuaLGTPul5UkHc5BhXnQ0k.jpg",
         "release_date": "2023-04-14",
-        "title": "PK",
-        "contentType": "movie",
-        "movieLink" : "CTkFvGYrLG4?si=RlZ1NYMUNzvFMO6e"
+        "title": "The Last Kingdom: Seven Kings Must Die",
+        "contentType": "movie"
     },
     {
         "_id": 420808,
         "backdrop_path": "https://image.tmdb.org/t/p/original/8HfjrSxfTVKmjNh8cJjbu5eXzcX.jpg",
         "genres": [
             "Family",
-            "Comedy"
-            
+            "Sci-Fi & Fantasy",
+            "Action & Adventure",
+            "Action & Adventure"
         ],
-        "original_title": "DON",
-        "overview": "Seeking a sense of purpose, a wayward college student navigates life on campus while enduring a controlling father and a disciplinarian professor.",
-        "poster_path": "https://m.media-amazon.com/images/M/MV5BMjQ3MDFhMWEtMmM2Zi00NWM4LWJmNmYtOTVjMGJkNjljYTA1XkEyXkFqcGdeQXVyMTEzNzg0Mjkx._V1_.jpg",
+        "original_title": "Peter Pan & Wendy",
+        "overview": "Wendy Darling, a young girl afraid to leave her childhood home behind, meets Peter Pan, a boy who refuses to grow up. Alongside her brothers and a tiny fairy, Tinker Bell, she travels with Peter to the magical world of Neverland. There, she encounters an evil pirate captain, Captain Hook, and embarks on a thrilling adventure that will change her life forever.",
+        "poster_path": "https://image.tmdb.org/t/p/original/9NXAlFEE7WDssbXSMgdacsUD58Y.jpg",
         "release_date": "2023-04-20",
-        "title": "DON",
-        "contentType": "movie",
-        "movieLink" : "djitvHL1Tds?si=7Ly2WN7QNdkdxK07"
+        "title": "Peter Pan & Wendy",
+        "contentType": "movie"
     },
     {
         "_id": 493529,
@@ -108,29 +89,29 @@ export const MOVIES_LIST=[
             "Sci-Fi & Fantasy",
             "Comedy"
         ],
-        "original_title": "Mishan impossible",
-        "overview": "Tired of their banal lives, three boys devise a plan to get fame by capturing an infamous criminal. However, they find themselves dealing with a ring of child traffickers and a journalist with her own agenda.",
-        "poster_path": "https://m.media-amazon.com/images/M/MV5BNDhhODc3ZmEtOTZjNy00NjcyLWI1YWUtODE0MzYwN2EzZmJmXkEyXkFqcGdeQXVyOTI3MzI4MzA@._V1_FMjpg_UX1000_.jpg",
+        "original_title": "Dungeons & Dragons: Honor Among Thieves",
+        "overview": "A charming thief and a band of unlikely adventurers undertake an epic heist to retrieve a lost relic, but things go dangerously awry when they run afoul of the wrong people.",
+        "poster_path": "https://image.tmdb.org/t/p/original/v7UF7ypAqjsFZFdjksjQ7IUpXdn.jpg",
         "release_date": "2023-03-23",
-        "title": "Mishan Impossible",
-        "contentType": "movie",
-        "movieLink" : "h2t57dAekSw?si=YtAp1Yal9I3aLho4"
+        "title": "Dungeons & Dragons: Honor Among Thieves",
+        "contentType": "movie"
     },
     {
         "_id": 315162,
         "backdrop_path": "https://image.tmdb.org/t/p/original/jr8tSoJGj33XLgFBy6lmZhpGQNu.jpg",
         "genres": [
-            "Drama",
+            "Animation",
             "Family",
+            "Sci-Fi & Fantasy",
+            "Action & Adventure",
             "Comedy"
         ],
-        "original_title": "Mithai",
+        "original_title": "Puss in Boots: The Last Wish",
         "overview": "Puss in Boots discovers that his passion for adventure has taken its toll: He has burned through eight of his nine lives, leaving him with only one life left. Puss sets out on an epic journey to find the mythical Last Wish and restore his nine lives.",
-        "poster_path": "https://m.media-amazon.com/images/S/pv-target-images/d6ac065f277b71ae723ef87c0b52ee45916c024cb8cd48f4367336c720be62de.jpg",
+        "poster_path": "https://image.tmdb.org/t/p/original/kuf6dutpsT0vSVehic3EZIqkOBt.jpg",
         "release_date": "2022-12-07",
-        "title": "Mithai",
-        "contentType": "movie",
-        "movieLink" : "UDTT7LESiUA?si=RdP07899Grn3kym4"
+        "title": "Puss in Boots: The Last Wish",
+        "contentType": "movie"
     },
     {
         "_id": 638974,
@@ -139,13 +120,12 @@ export const MOVIES_LIST=[
             "Comedy",
             "Crime"
         ],
-        "original_title": "Sanju",
+        "original_title": "Murder Mystery 2",
         "overview": "After starting their own detective agency, Nick and Audrey Spitz land a career-making case when their billionaire pal is kidnapped from his wedding.",
-        "poster_path": "https://resizing.flixster.com/h8aq8j3FPYw-qHnKAqRqY1fwnnY=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2I3YzczMmVhLTk5MjQtNDk0Yi05Y2YxLTQ1YjY1NWQxOTAwOS53ZWJw",
+        "poster_path": "https://image.tmdb.org/t/p/original/s1VzVhXlqsevi8zeCMG9A16nEUf.jpg",
         "release_date": "2023-03-28",
-        "title": "Sanju",
-        "contentType": "movie",
-        "movieLink" : "WrDmoaR8GSM?si=xL-Mw7GoF2Hpe_ae"
+        "title": "Murder Mystery 2",
+        "contentType": "movie"
     },
     {
         "_id": 860425,

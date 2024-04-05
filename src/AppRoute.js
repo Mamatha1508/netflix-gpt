@@ -6,6 +6,10 @@ import Body from "./components/Body";
 import Browse from "./components/Browse";
 
 import App from "./App";
+import PlayMovie from "./components/PlayMovie";
+import PlaySeries from "./components/PlaySeries";
+import EpisodeCard from "./components/EpisodeCard";
+import PlayEpisodes from "./components/PlayEpisodes";
 
 
 
@@ -23,6 +27,18 @@ const AppRoute=()=>{
                 {
                     path : '/browse',
                     element : <Browse/>
+                },
+                {
+                    path: '/movie/:movieLink',
+                    element: <PlayMovie/>
+                },
+                {
+                    path : '/series/:seriesName',
+                    element : <PlaySeries/>
+                },
+                {
+                    path: '/episode/:episodeLink',
+                    element : <PlayEpisodes/>
                 }
             ]
         }
